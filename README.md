@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Stephen Mugisha 👋
 
-<!--
-**Stephen254-ME/Stephen254-ME** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer passionate about backend systems, low-level programming, web development, and IoT solutions.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
+- **Languages:** C, C++, Python, PHP, JavaScript, HTML5/CSS3, SQL
+- **Databases & Servers:** MySQL, XAMPP, Apache
+- **Hardware & IoT:** Arduino, Sensor Integration (PIR, DHT11, Ultrasonic), I2C
+- **Graphics & Tools:** PyOpenGL, Pygame, VS Code, Dev-C++, Cisco Packet Tracer, Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Featured Focus Areas
+- 💻 **Systems & Utilities:** Algorithmic solutions, data structures, and CLI tools in C/Python.
+- 🌐 **Web Applications:** Custom backend scripts, database modeling, dynamic PHP/JS web apps.
+- ⚡ **Embedded Systems:** Bridging physical hardware sensors with software visualization.
+
+---
+📫 **Connect with me:** [Email](mailto:stephenmugisha254@gmail.com)
